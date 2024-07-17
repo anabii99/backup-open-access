@@ -12,3 +12,5 @@
   - https://holub.com/compiler/
 - Algorithms, by Robert Sedgewick
   - https://algs4.cs.princeton.edu/home/
+- Foundations of Computer Science, Alfred Aho
+  - http://infolab.stanford.edu/~ullman/focs.html#pdfs
